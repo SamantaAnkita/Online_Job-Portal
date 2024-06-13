@@ -1,0 +1,774 @@
+.jobListChild {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 482px;
+}
+.iosDeveloper {
+  position: absolute;
+  top: 280px;
+  left: 463px;
+  color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  width: 86px;
+  height: 15px;
+}
+.androidDeveloper,
+.iosDeveloper,
+.trendingJobKeywords {
+  font-size: var(--font-size-smi);
+  font-weight: 200;
+}
+.androidDeveloper {
+  position: absolute;
+  top: 280px;
+  left: 579px;
+  color: rgba(0, 0, 0, 0.48);
+  display: inline-block;
+  width: 113px;
+  height: 15px;
+}
+.trendingJobKeywords {
+  top: 284px;
+  left: 48px;
+  color: rgba(0, 0, 0, 0.53);
+  width: 146px;
+}
+.career,
+.catagory,
+.getYourDream,
+.trendingJobKeywords {
+  position: absolute;
+  display: inline-block;
+}
+.catagory {
+  top: 367px;
+  left: 826px;
+  font-weight: 200;
+  white-space: pre-wrap;
+  width: 161px;
+  height: 29px;
+}
+.career,
+.getYourDream {
+  top: 46px;
+  left: 144px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  width: 180px;
+  height: 67px;
+}
+.getYourDream {
+  top: 99px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  height: 51px;
+}
+.image2Icon,
+.jobListItem {
+  position: absolute;
+  top: 484px;
+  left: 2px;
+  width: 1440px;
+  height: 542px;
+  object-fit: cover;
+}
+.jobListItem {
+  top: 38px;
+  left: 48px;
+  width: 96px;
+  height: 112px;
+}
+.homeEmployees,
+.login,
+.register {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  display: inline-block;
+  height: 23px;
+}
+.homeEmployees {
+  top: 95px;
+  left: 395px;
+  white-space: pre-wrap;
+  width: 592px;
+  cursor: pointer;
+}
+.login,
+.register {
+  top: 81px;
+  left: 1088px;
+  color: var(--color-white);
+  width: 66px;
+}
+.register {
+  left: 1286px;
+  width: 77px;
+}
+.searchForMore {
+  margin: 0;
+}
+.searchForMoreContainer {
+  position: absolute;
+  top: 121px;
+  left: 89px;
+  font-size: var(--font-size-45xl);
+  font-weight: 800;
+  color: rgba(191, 117, 226, 0.75);
+  display: inline-block;
+  width: 760px;
+  height: 137px;
+}
+.jobListInner {
+  position: absolute;
+  top: 339px;
+  left: 190px;
+  background-color: rgba(228, 60, 121, 0.07);
+  width: 1043px;
+  height: 75px;
+}
+.location,
+.searchKeywords {
+  position: absolute;
+  top: 367px;
+  font-weight: 200;
+  display: inline-block;
+  height: 18px;
+}
+.location {
+  left: 590px;
+  white-space: pre-wrap;
+  width: 100px;
+}
+.searchKeywords {
+  left: 242px;
+  width: 180px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 339px;
+  left: 1057px;
+  background-color: var(--color-gainsboro-200);
+  width: 176px;
+  height: 75px;
+}
+.search {
+  position: absolute;
+  top: 367px;
+  left: 1126px;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  display: inline-block;
+  width: 85px;
+  height: 29px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 357px;
+  left: 1072px;
+  width: 36px;
+  height: 39px;
+  object-fit: cover;
+}
+.jobListChild1,
+.jobListChild2 {
+  position: absolute;
+  top: 276px;
+  left: 206px;
+  background-color: var(--color-pink-100);
+  width: 117px;
+  height: 24px;
+}
+.jobListChild2 {
+  left: 331px;
+  background-color: var(--color-pink-200);
+  width: 111px;
+}
+.jobListChild3,
+.jobListChild4 {
+  position: absolute;
+  top: 276px;
+  left: 450px;
+  width: 117px;
+  height: 24px;
+}
+.jobListChild4 {
+  left: 575px;
+  background-color: var(--color-pink-200);
+}
+.webDesigner,
+.webDeveloper {
+  position: absolute;
+  top: 280px;
+  font-size: var(--font-size-smi);
+  font-weight: 200;
+  display: inline-block;
+  height: 13px;
+}
+.webDesigner {
+  left: 223px;
+  color: var(--color-gray-200);
+  width: 85px;
+}
+.webDeveloper {
+  left: 343px;
+  color: rgba(0, 0, 0, 0.44);
+  width: 92px;
+}
+.jobListChild5,
+.jobListChild6 {
+  position: absolute;
+  top: 496px;
+  left: 502px;
+  background-color: var(--color-brown);
+  width: 420px;
+  height: 57px;
+}
+.jobListChild6 {
+  background-color: var(--color-white);
+  width: 212px;
+}
+.latestJobs,
+.recentJobs {
+  position: absolute;
+  top: 506px;
+  left: 518px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 183px;
+  height: 33px;
+}
+.recentJobs {
+  left: 722px;
+  color: var(--color-white);
+  width: 194px;
+}
+.jobListChild7 {
+  position: absolute;
+  top: 578px;
+  left: 48px;
+  background-color: var(--color-white);
+  width: 306px;
+  height: 180px;
+}
+.phpDeveloper {
+  position: absolute;
+  top: 654px;
+  left: 89px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 247px;
+  height: 31px;
+}
+.jobListChild8,
+.productManager {
+  position: absolute;
+  top: 578px;
+  left: 395px;
+  width: 306px;
+  height: 180px;
+}
+.productManager {
+  top: 656px;
+  left: 415px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 268px;
+  height: 29px;
+}
+.jobListChild9 {
+  position: absolute;
+  top: 578px;
+  left: 737px;
+  background-color: var(--color-white);
+  width: 301px;
+  height: 180px;
+}
+.durgapurWest,
+.raniganjWest {
+  position: absolute;
+  font-weight: 200;
+}
+.durgapurWest {
+  top: 685px;
+  left: 817px;
+  font-size: var(--font-size-smi);
+}
+.raniganjWest {
+  top: 687px;
+  left: 458px;
+  display: inline-block;
+  width: 173px;
+  height: 18px;
+}
+.jobListChild10 {
+  position: absolute;
+  top: 578px;
+  left: 1074px;
+  background-color: var(--color-white);
+  width: 300px;
+  height: 180px;
+}
+.mumbaiMaharashtra {
+  position: absolute;
+  top: 680px;
+  left: 1165px;
+  font-size: var(--font-size-smi);
+  font-weight: 200;
+}
+.jobListChild11,
+.jobListChild12,
+.jobListChild13,
+.jobListChild14 {
+  position: absolute;
+  top: 796px;
+  left: 1080px;
+  background-color: var(--color-white);
+  width: 300px;
+  height: 180px;
+}
+.jobListChild12,
+.jobListChild13,
+.jobListChild14 {
+  left: 741px;
+}
+.jobListChild13,
+.jobListChild14 {
+  left: 395px;
+  width: 306px;
+}
+.jobListChild14 {
+  top: 797px;
+  left: 56px;
+  width: 300px;
+}
+.jobListChild15,
+.jobListChild16 {
+  background-color: var(--color-darkslategray-200);
+  width: 88px;
+  height: 18px;
+}
+.jobListChild15 {
+  position: absolute;
+  top: 588px;
+  left: 56px;
+}
+.jobListChild16 {
+  left: 406px;
+}
+.jobListChild16,
+.jobListChild17,
+.partTime {
+  position: absolute;
+  top: 588px;
+}
+.jobListChild17 {
+  left: 748px;
+  background-color: var(--color-darkslategray-200);
+  width: 88px;
+  height: 18px;
+}
+.partTime {
+  left: 761px;
+  font-size: var(--font-size-smi);
+  font-weight: 200;
+  color: var(--color-white);
+  display: inline-block;
+  width: 64px;
+  height: 13px;
+}
+.jobListChild18,
+.jobListChild19,
+.jobListChild20,
+.jobListChild21,
+.jobListChild22 {
+  position: absolute;
+  top: 588px;
+  left: 1090px;
+  background-color: var(--color-darkslategray-200);
+  width: 88px;
+  height: 18px;
+}
+.jobListChild19,
+.jobListChild20,
+.jobListChild21,
+.jobListChild22 {
+  top: 808px;
+  left: 1089px;
+}
+.jobListChild20,
+.jobListChild21,
+.jobListChild22 {
+  left: 749px;
+  width: 93px;
+}
+.jobListChild21,
+.jobListChild22 {
+  left: 404px;
+}
+.jobListChild22 {
+  left: 63px;
+}
+.div,
+.ellipseDiv {
+  position: absolute;
+  top: 588px;
+}
+.ellipseDiv {
+  left: 319px;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 24px;
+  height: 18px;
+}
+.div {
+  left: 323px;
+  font-weight: 200;
+  display: inline-block;
+  width: 16px;
+  height: 14px;
+}
+.jobListChild23 {
+  position: absolute;
+  top: 606px;
+  left: 171px;
+  border-radius: 50%;
+  background-color: var(--color-pink-200);
+  width: 71px;
+  height: 56px;
+}
+.fullTime {
+  position: absolute;
+  top: 588px;
+  left: 65px;
+  font-weight: 200;
+  color: var(--color-white);
+  display: inline-block;
+  width: 69px;
+  height: 14px;
+}
+.image3Icon {
+  position: absolute;
+  top: 617px;
+  left: 180px;
+  width: 50px;
+  height: 34px;
+  object-fit: cover;
+}
+.jobListChild24 {
+  position: absolute;
+  top: 732px;
+  left: 140px;
+  background-color: var(--color-pink-100);
+  width: 119px;
+  height: 19px;
+}
+.applyNow,
+.kolkataSector {
+  position: absolute;
+  display: inline-block;
+}
+.kolkataSector {
+  top: 689px;
+  left: 131px;
+  color: rgba(0, 0, 0, 0.4);
+  width: 139px;
+  height: 21px;
+}
+.applyNow {
+  top: 732px;
+  left: 156px;
+  font-weight: 600;
+  width: 103px;
+  height: 19px;
+}
+.jobListChild25 {
+  position: absolute;
+  top: 66px;
+  left: 1154px;
+  background-color: var(--color-brown);
+  width: 248px;
+  height: 66px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 72px;
+  left: 1333px;
+  border-radius: 50%;
+  width: 62px;
+  height: 52px;
+  object-fit: cover;
+}
+.profile {
+  position: absolute;
+  top: 79px;
+  left: 1211px;
+  font-size: var(--font-size-13xl);
+  font-weight: 300;
+  color: var(--color-white);
+  display: inline-block;
+  width: 111px;
+  height: 33px;
+  cursor: pointer;
+}
+.jobListChild26 {
+  position: absolute;
+  top: 586px;
+  left: 669px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 23px;
+  height: 23px;
+}
+.div6,
+.div7 {
+  position: absolute;
+  top: 588px;
+  left: 672px;
+  font-weight: 200;
+}
+.div7 {
+  top: 595px;
+  left: 1016px;
+}
+.jobListChild27,
+.jobListChild28,
+.jobListChild29,
+.jobListChild30 {
+  position: absolute;
+  top: 583px;
+  left: 1009px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 23px;
+  height: 23px;
+}
+.jobListChild28,
+.jobListChild29,
+.jobListChild30 {
+  top: 806px;
+  left: 327px;
+  width: 24px;
+  height: 18px;
+}
+.jobListChild29,
+.jobListChild30 {
+  top: 808px;
+  left: 671px;
+  width: 21px;
+}
+.jobListChild30 {
+  top: 806px;
+  left: 1009px;
+  width: 26px;
+  height: 20px;
+}
+.div9 {
+  position: absolute;
+  top: 586px;
+  left: 1012px;
+  font-weight: 200;
+}
+.jobListChild31 {
+  position: absolute;
+  top: 588px;
+  left: 1354px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 20px;
+  height: 20px;
+}
+.div10,
+.div11 {
+  position: absolute;
+  font-weight: 200;
+}
+.div10 {
+  top: 590px;
+  left: 1356px;
+  display: inline-block;
+  width: 13px;
+  height: 16px;
+}
+.div11 {
+  top: 807px;
+  left: 1013px;
+}
+.jobListChild32 {
+  position: absolute;
+  top: 817px;
+  left: 1336px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 28px;
+  height: 26px;
+}
+.div12 {
+  position: absolute;
+  top: 823px;
+  left: 1341px;
+  font-weight: 200;
+}
+.jobListChild33 {
+  top: 620px;
+  left: 1207px;
+  width: 61px;
+  height: 45px;
+  object-fit: cover;
+}
+.jobListChild33,
+.jobListChild34,
+.jobListChild35 {
+  position: absolute;
+  border-radius: 50%;
+}
+.jobListChild34 {
+  top: 842px;
+  left: 1203px;
+  background-color: var(--color-gainsboro-200);
+  width: 65px;
+  height: 52px;
+}
+.jobListChild35 {
+  top: 620px;
+  left: 847px;
+  width: 69px;
+  height: 45px;
+  object-fit: cover;
+}
+.assistantPhpDeveloper {
+  position: absolute;
+  top: 662px;
+  left: 741px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.jobListChild36,
+.jobListChild37 {
+  position: absolute;
+  border-radius: 50%;
+}
+.jobListChild36 {
+  top: 842px;
+  left: 847px;
+  background-color: var(--color-gainsboro-200);
+  width: 73px;
+  height: 53px;
+}
+.jobListChild37 {
+  top: 625px;
+  left: 518px;
+  width: 43px;
+  height: 40px;
+  object-fit: cover;
+}
+.jobListChild38,
+.jobListChild39 {
+  position: absolute;
+  top: 847px;
+  left: 176px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 59px;
+  height: 48px;
+}
+.jobListChild39 {
+  left: 514px;
+  width: 70px;
+}
+.jobListChild40,
+.jobListChild41 {
+  position: absolute;
+  top: 728px;
+  left: 505px;
+  width: 85px;
+  height: 19px;
+}
+.jobListChild41 {
+  top: 731px;
+  left: 507px;
+  background-color: var(--color-pink-200);
+  width: 82px;
+  height: 20px;
+}
+.applyNow1,
+.fullTime1 {
+  position: absolute;
+  display: inline-block;
+}
+.applyNow1 {
+  top: 732px;
+  left: 518px;
+  font-size: 12px;
+  font-weight: 600;
+  width: 63px;
+  height: 15px;
+}
+.fullTime1 {
+  top: 588px;
+  left: 422px;
+  font-size: var(--font-size-smi);
+  font-weight: 200;
+  color: var(--color-white);
+  width: 60px;
+  height: 14px;
+}
+.jobListChild42 {
+  position: absolute;
+  top: 731px;
+  left: 841px;
+  background-color: var(--color-gainsboro-200);
+  width: 82px;
+  height: 20px;
+}
+.applyNow2 {
+  position: absolute;
+  top: 733px;
+  left: 847px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+  display: inline-block;
+  width: 138px;
+  height: 16px;
+}
+.jobListChild43 {
+  position: absolute;
+  top: 725px;
+  left: 1185px;
+  background-color: var(--color-gainsboro-200);
+  width: 94px;
+  height: 22px;
+}
+.applyNow3,
+.freshIntern {
+  position: absolute;
+  font-weight: 600;
+}
+.applyNow3 {
+  top: 727px;
+  left: 1193px;
+  font-size: 15px;
+  display: inline-block;
+  width: 128px;
+}
+.freshIntern {
+  top: 659px;
+  left: 1162px;
+  font-size: var(--font-size-5xl);
+}
+.jobList {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
