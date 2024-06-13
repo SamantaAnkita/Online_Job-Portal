@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-29xl: 48px;
+  --font-size-3xs: 10px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray-100: #144d6d;
+  --color-darkslategray-200: rgba(9, 43, 12, 0.76);
+  --color-gray-100: rgba(0, 0, 0, 0.66);
+  --color-gray-200: rgba(0, 0, 0, 0.42);
+  --color-gainsboro-100: #e0e8e6;
+  --color-gainsboro-200: #d9d9d9;
+  --color-lightpink: rgba(236, 155, 179, 0.83);
+  --color-pink-100: rgba(247, 203, 203, 0.19);
+  --color-pink-200: rgba(247, 203, 203, 0.2);
+  --color-brown: #972338;
+  --color-mediumslateblue: #1451ec;
+}
