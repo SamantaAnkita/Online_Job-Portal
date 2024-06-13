@@ -1,0 +1,205 @@
+.image4Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3041px;
+  height: 1865px;
+  object-fit: cover;
+}
+.signUpPage11Child {
+  position: absolute;
+  top: 222px;
+  left: 1988px;
+  background-color: #dfe87b;
+  width: 936px;
+  height: 1264px;
+}
+.aSuccessful {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blankLine {
+  margin: 0;
+}
+.aSuccessfulCareerContainer {
+  position: absolute;
+  top: 451px;
+  left: 157px;
+  font-size: 96px;
+  font-weight: 800;
+  color: #5a1212;
+  display: inline-block;
+  width: 1176px;
+  height: 1130px;
+}
+.signUpPage11Item {
+  position: absolute;
+  top: 52px;
+  left: 87px;
+  width: 140px;
+  height: 157px;
+  object-fit: cover;
+}
+.career1 {
+  position: absolute;
+  top: 83px;
+  left: 271px;
+  font-size: var(--font-size-45xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 270px;
+  height: 47px;
+}
+.createNewAccount,
+.getYourDream {
+  position: absolute;
+  top: 156px;
+  left: 261px;
+  font-weight: 300;
+  display: inline-block;
+  width: 326px;
+  height: 23px;
+}
+.createNewAccount {
+  top: 277px;
+  left: 2234px;
+  font-size: var(--font-size-29xl);
+  width: 592px;
+  height: 143px;
+}
+.signUpPage11Inner {
+  position: absolute;
+  top: 1066px;
+  left: 2202px;
+  background-color: var(--color-white);
+  width: 508px;
+  height: 77px;
+}
+.loginWithFacebook {
+  position: absolute;
+  top: 1085px;
+  left: 2257px;
+  font-weight: 200;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 414px;
+  left: 2202px;
+  background-color: var(--color-white);
+  width: 508px;
+  height: 77px;
+}
+.name {
+  position: absolute;
+  top: 433px;
+  left: 2411px;
+  font-weight: 300;
+}
+.signUpPage11Child1 {
+  position: absolute;
+  top: 754px;
+  left: 2202px;
+  background-color: var(--color-white);
+  width: 508px;
+  height: 77px;
+}
+.password {
+  position: absolute;
+  top: 768px;
+  left: 2383px;
+  font-weight: 300;
+}
+.signUpPage11Child2 {
+  position: absolute;
+  top: 526px;
+  left: 2202px;
+  background-color: var(--color-white);
+  width: 508px;
+  height: 77px;
+}
+.mobileNumber {
+  position: absolute;
+  top: 545px;
+  left: 2350px;
+  font-weight: 300;
+}
+.signUpPage11Child3 {
+  position: absolute;
+  top: 638px;
+  left: 2202px;
+  background-color: var(--color-white);
+  width: 508px;
+  height: 76px;
+}
+.email {
+  position: absolute;
+  top: 657px;
+  left: 2416px;
+  font-weight: 300;
+}
+.signUpPage11Child4 {
+  position: absolute;
+  top: 961px;
+  left: 2202px;
+  background-color: var(--color-white);
+  width: 508px;
+  height: 77px;
+}
+.login {
+  color: var(--color-mediumslateblue);
+}
+.alreadyHaveAnContainer {
+  position: absolute;
+  top: 1178px;
+  left: 2237px;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 415px;
+  height: 33px;
+  cursor: pointer;
+}
+.loginWithGoogle,
+.or {
+  position: absolute;
+  font-weight: 200;
+}
+.or {
+  top: 866px;
+  left: 2456px;
+  display: inline-block;
+  width: 18px;
+  height: 15px;
+}
+.loginWithGoogle {
+  top: 980px;
+  left: 2261px;
+}
+.ellipseIcon,
+.signUpPage11Child5 {
+  position: absolute;
+  width: 79px;
+  object-fit: cover;
+}
+.ellipseIcon {
+  top: 961px;
+  left: 2612px;
+  border-radius: 50%;
+  height: 79px;
+}
+.signUpPage11Child5 {
+  top: 1066px;
+  left: 2622px;
+  height: 77px;
+}
+.signUpPage11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1865px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
