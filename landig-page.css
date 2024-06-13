@@ -1,0 +1,175 @@
+.image1Icon,
+.landingPage11Child {
+  position: absolute;
+  left: 0;
+  width: 772px;
+}
+.image1Icon {
+  top: 110px;
+  height: 372px;
+  object-fit: cover;
+}
+.landingPage11Child {
+  top: 0;
+  background-color: rgba(217, 217, 217, 0.04);
+  height: 110px;
+}
+.career,
+.getYourDream {
+  position: absolute;
+  left: 76px;
+  display: inline-block;
+}
+.career {
+  top: 25px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  width: 155px;
+  height: 38px;
+}
+.getYourDream {
+  top: 63px;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  width: 145px;
+}
+.landingPage11Item {
+  position: absolute;
+  top: 25px;
+  left: 21px;
+  width: 55px;
+  height: 62px;
+  object-fit: cover;
+}
+.homeFindA,
+.login,
+.register {
+  position: absolute;
+  top: 63px;
+  font-weight: 200;
+  display: inline-block;
+}
+.homeFindA {
+  left: 258px;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  width: 335px;
+  height: 24px;
+}
+.login,
+.register {
+  left: 694px;
+  color: var(--color-white);
+  width: 37px;
+  height: 15px;
+}
+.register {
+  left: 610px;
+  width: 51px;
+}
+.sayGoodbye {
+  margin: 0;
+}
+.sayGoodbyeToContainer {
+  position: absolute;
+  top: 110px;
+  left: 48px;
+  font-size: var(--font-size-29xl);
+  font-weight: 800;
+  color: var(--color-lightpink);
+  display: inline-block;
+  width: 538px;
+  height: 166px;
+}
+.landingPage11Inner {
+  position: absolute;
+  top: 358px;
+  left: 53px;
+  background-color: var(--color-gainsboro-100);
+  width: 658px;
+  height: 44px;
+}
+.span {
+  color: var(--color-black);
+}
+.jobTitleOr,
+.location {
+  position: absolute;
+  top: 371px;
+  left: 353px;
+  font-weight: 300;
+  display: inline-block;
+  width: 53px;
+  height: 22px;
+  color: var(--color-gray-100);
+}
+.jobTitleOr {
+  left: 80px;
+  color: var(--color-gray-200);
+  width: 140px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 358px;
+  left: 573px;
+  background-color: var(--color-darkslategray-100);
+  width: 138px;
+  height: 44px;
+}
+.div,
+.findJob {
+  position: absolute;
+  font-weight: 300;
+}
+.findJob {
+  top: 372px;
+  left: 615px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.div {
+  top: 371px;
+  left: 550px;
+  display: inline-block;
+  width: 9px;
+  height: 15px;
+}
+.landingPage11Child1 {
+  position: absolute;
+  top: 44px;
+  left: 636px;
+  background-color: #6a1c1c;
+  width: 107px;
+  height: 44px;
+  cursor: pointer;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 48px;
+  left: 706px;
+  border-radius: 50%;
+  width: 30px;
+  height: 34px;
+  object-fit: cover;
+}
+.profile {
+  position: absolute;
+  top: 57px;
+  left: 659px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 41px;
+  height: 15px;
+}
+.landingPage11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 482px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
